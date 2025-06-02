@@ -1,0 +1,33 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "titulo": "Pastel de Chocolate",
+        "precio": 50,
+        "descripcion": "Pastel grande con abundante chocolate",
+        "imagen": "https://raw.githubusercontent.com/Asyhbd2/Imagenes-para-API-Flutter-6J/main/pastel.jpg"
+      },
+      {
+        "id": 2,
+        "titulo": "Cupcakes",
+        "precio": 10,
+        "descripcion": "Cupcake de vainilla con chispas",
+        "imagen": "https://raw.githubusercontent.com/Asyhbd2/Imagenes-para-API-Flutter-6J/main/cupcake.jpg"
+      },
+      {
+        "id": 3,
+        "titulo": "Cheesecake",
+        "precio": 30,
+        "descripcion": "Cheesecake con base de galleta oreo",
+        "imagen": "https://raw.githubusercontent.com/Asyhbd2/Imagenes-para-API-Flutter-6J/main/cheesecake.jpg"
+      },
+      {
+        "id": 4,
+        "titulo": "Conchas",
+        "precio": 10,
+        "descripcion": "Conchas tradicionales mexicanas",
+        "imagen": "https://raw.githubusercontent.com/Asyhbd2/Imagenes-para-API-Flutter-6J/main/conchas.jpg"
+      }
+    ]
+  }
+  
